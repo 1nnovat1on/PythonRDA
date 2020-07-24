@@ -5,7 +5,7 @@ from PIL import ImageGrab
 import pyautogui as gui
 import time
 #import sys
-#sys.path.insert(1, "C:\\Users\\z0040WBP\\Desktop\\Project")
+#sys.path.insert(1, "C:\\Users\\CENSORED\\Desktop\\Project")
 #import readScreen as esther
 import pytesseract as esther
 import pyautogui as gui
@@ -186,7 +186,7 @@ def openAccess(database):
     time.sleep(2)
     if (database == 'DE'):
         #gui.write('"Y:\\ICC OM\\Data\\OrderData\\DE-Orders.accdb"')
-        gui.write('"C:\\Users\\z0040WBP\\Desktop\\offlineDB\\OrderData\\DE-Orders.accdb"')
+        gui.write('"C:\\Users\\CENSORED\\Desktop\\offlineDB\\OrderData\\DE-Orders.accdb"')
 
     if (database == 'ICC'):
         gui.write('"Y:\\ICC OM\\Data\\ICC_Orders.accdb"')
