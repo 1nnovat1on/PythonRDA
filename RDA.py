@@ -1,5 +1,6 @@
 # Made by Colin Jackson; January 2020; At Siemens under Reinhard Geisler
 # Welcome to my code
+# Copyright January 2020
 
 from PIL import ImageGrab
 import pyautogui as gui
